@@ -1,0 +1,6 @@
+#!/bin/bang
+cd /My_first_repo
+mkdir wao
+cd wao
+touch tundr taiwo
+echo'My name is cool' > taiwo
